@@ -1,0 +1,58 @@
+.container {
+	border: 1px solid black;
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+}
+h1 {
+	width: 800px;
+	color: white;
+	text-align: center;
+	height: 40px;
+	margin: 0px;
+	background-color: black;
+}
+h3 {
+	padding-top: 10px;
+	padding-left: 8px;
+}
+p {
+	padding: 8px;
+	text-indent: 20px;
+	text-align: justify;
+}
+.p1 {
+	padding-top: 0px;
+}
+.image {
+	margin: auto;
+	width: 200px;
+	height: 150px;
+}
+img {
+	width: 200px;
+	height: 150px;
+	padding-top: 20px;
+}
+.footer {
+	height: 30px;
+	background-color: black;
+}
+#pfooter {
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+.kembalindex:link, .kembalindex:visited {
+    background-color: red;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.kembalindex:hover, .kembalindex:active {
+    background-color: darkred;
+}

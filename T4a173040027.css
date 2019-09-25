@@ -1,0 +1,63 @@
+body {
+	background-image: url(babah123.jpg);
+	font-family:calibri; 
+	color: black;
+}
+.container {
+	border: 5px solid white;
+	width: 60%;
+	margin: auto;
+	background-color: grey;
+}
+h1 {
+	width: inherit;
+	color: white;
+	text-align: left;
+	height: 100px;
+	background-color: darkgrey;
+	line-height: 100px;
+	font-size: 80px;
+}
+h3 {
+	font-size: 50px;
+	margin: auto ;
+	margin-top: 30px;
+	color: black;
+}
+.image {
+	margin: auto;
+	width: 600px;
+	height: 300px;
+}
+img {
+	width: 600px;
+	height: 300px;
+}
+p {
+	padding: 8px;
+	text-indent: 20px;
+	text-align: justify;
+	color: white;
+}
+.footer {
+	height: 60px;
+	background-color: darkgrey;
+	line-height: 40px;
+}
+#pfooter {
+	color: white;
+	text-align: center;
+}
+.kembalindex:link, .kembalindex:visited {
+    background-color: red;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.kembalindex:hover, .kembalindex:active {
+    background-color: darkred;
+}
